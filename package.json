@@ -1,5 +1,5 @@
 {
-  "name": "Bot",
+  "name": "SearchBot",
   "version": "0.0.1-dev",
   "private": true,
   "scripts": {
